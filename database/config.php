@@ -1,7 +1,7 @@
 <?php
 
 require_once "classe/Tache.php";
-require_once "  classe/Utilisateur.php";
+require_once "classe/Utilisateur.php";
 
 // Définition des constantes pour les informations de connexion à la base de données
 define('DB_SERVER', 'localhost');
